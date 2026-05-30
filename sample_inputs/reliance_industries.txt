@@ -1,0 +1,51 @@
+Company: Reliance Industries Limited
+Ticker: RELIANCE
+NSE Code: RELIANCE
+Sector: Conglomerate / Energy & Petrochemicals
+Date: 30-May-2026
+Analyst: Equity Research Desk
+
+CMP: 2950
+Target Price: 3450
+Upside: 16.9%
+Rating: BUY
+Market Cap: 1998500
+
+52 Week High: 3217
+52 Week Low: 2220
+
+P/E: 24.5
+P/B: 2.8
+ROE: 11.8%
+ROCE: 10.2%
+D/E: 0.42
+Dividend Yield: 0.3%
+
+--- COMPANY OVERVIEW ---
+Reliance Industries Limited (RIL) is India's largest private sector company by revenue, with diversified interests across energy, petrochemicals, retail, telecommunications, and digital services. Headquartered in Mumbai, the company operates the world's largest oil-refining complex at Jamnagar, Gujarat. Through Jio Platforms, RIL has emerged as India's leading digital services provider, while Reliance Retail is the country's largest retailer by revenue.
+
+--- INVESTMENT RATIONALE ---
+RIL's transformation from an energy-centric conglomerate to a technology and consumer business is well underway. The Jio Platforms ecosystem with over 480 million subscribers provides a strong recurring revenue base. Reliance Retail's aggressive expansion into grocery, fashion, and electronics gives it unmatched omni-channel scale. New Energy investments in green hydrogen, solar, and battery storage position RIL as a key beneficiary of India's energy transition over the next decade.
+
+--- RECENT PERFORMANCE ---
+In Q4FY25, RIL reported consolidated revenue of ₹2,64,302 Cr, up 7.8% YoY. EBITDA grew 12.3% YoY to ₹47,516 Cr. PAT attributable to shareholders stood at ₹19,407 Cr, up 6.4% YoY. Jio ARPU improved to ₹203 per subscriber per month. Retail segment revenue crossed ₹90,000 Cr for the first time in a quarter.
+
+--- FINANCIAL DATA ---
+FY22: Revenue=792756, EBITDA=136790, EBITDA_Margin=17.3, PAT=67845, EPS=100.3, PE=29.4, PB=3.5, ROE=12.0
+FY23: Revenue=878029, EBITDA=151234, EBITDA_Margin=17.2, PAT=74088, EPS=109.6, PE=26.9, PB=3.2, ROE=11.9
+FY24: Revenue=900552, EBITDA=178677, EBITDA_Margin=19.8, PAT=79020, EPS=116.9, PE=25.2, PB=3.0, ROE=11.7
+FY25E: Revenue=975000, EBITDA=196000, EBITDA_Margin=20.1, PAT=86500, EPS=127.9, PE=23.1, PB=2.9, ROE=12.1
+FY26E: Revenue=1062000, EBITDA=219000, EBITDA_Margin=20.6, PAT=97200, EPS=143.8, PE=20.5, PB=2.7, ROE=12.8
+
+--- QUARTERLY DATA ---
+Q1FY24: Revenue=215494, EBITDA=42318, PAT=17448, EPS=25.8
+Q2FY24: Revenue=235481, EBITDA=46218, PAT=19878, EPS=29.4
+Q3FY24: Revenue=228777, EBITDA=45912, PAT=20015, EPS=29.6
+Q4FY24: Revenue=220800, EBITDA=44229, PAT=21780, EPS=32.2
+Q1FY25: Revenue=245000, EBITDA=49100, PAT=21700, EPS=32.1
+
+--- KEY RISKS ---
+Regulatory risk in telecom and retail sectors, volatility in global crude oil prices, execution risk on new energy investments, and potential competitive pressure from global tech giants in the digital services space. High capital expenditure requirements may pressure near-term free cash flows.
+
+--- OUTLOOK ---
+We maintain a BUY rating on Reliance Industries with a SOTP-based target price of ₹3,450. The stock offers a compelling risk-reward with its diversified business model, strong digital consumer businesses, and long-term new energy opportunity. Investors should accumulate on dips.
